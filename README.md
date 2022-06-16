@@ -2,8 +2,8 @@
 A simple docker container for hosting websites using apache and php, when used in a production environment a proxy is advised.
 
 ## Supported tags and respective `Dockerfile` links:
--	[`alpine3.16-php8-v1.2`, `php8-latest`](https://github.com/t0m0094/docker-webserver/blob/v1.2/alpine_base-php8/Dockerfile)
--	[`alpine3.15-php7-v1.2`, `php7-latest`](https://github.com/t0m0094/docker-webserver/blob/v1.2/alpine_base-php7/Dockerfile)
+-	[`alpine3.16-php8-v1.3`, `php8-latest`](https://github.com/t0m0094/docker-webserver/blob/v1.3/alpine_base-php8/Dockerfile)
+-	[`alpine3.15-php7-v1.3`, `php7-latest`](https://github.com/t0m0094/docker-webserver/blob/v1.3/alpine_base-php7/Dockerfile)
 
 ## Volumes:
 
